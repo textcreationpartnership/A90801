@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem upon His Majesties coronation the 23. of April 1661. being St. Georges day.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90801</idno>
+            <idno type="STC">Wing P2711</idno>
+            <idno type="STC">Thomason E1080_21</idno>
+            <idno type="STC">ESTC R35580</idno>
+            <idno type="EEBO-CITATION">99872420</idno>
+            <idno type="PROQUEST">99872420</idno>
+            <idno type="VID">169348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1080[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem upon His Majesties coronation the 23. of April 1661. being St. Georges day.</title>
+                  <author>Evelyn, John, 1620-1706, attributed name.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Gabriel Bedel and Thomas Collins, near the Middle-Temple-Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to John Evelyn.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Coronation --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169348:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <p>A POEM UPON HIS MAIESTIES CORONATION the 23. of <hi>April</hi> 1661. Being S<hi rend="sup">t</hi>. Georges day.</p>
+            <q>
+               <l>—humano generi Natura benigni</l>
+               <l>Nil dedit, aut tribuet moderato principe majus:</l>
+               <bibl>
+                  <hi>Buchan. Geneth. Jacobi Regis.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Gabriel Bedel</hi> and <hi>Thomas Collins,</hi> near the <hi>Middle-Temple-Gate:</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:169348:2"/>
+            <!-- PDF PAGE 45 -->
+            <pb n="3" facs="tcp:169348:2"/>
+            <!-- PDF PAGE 45 -->
+            <head>To His Sacred Majeſty.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>F elder times could to <hi>St. George</hi> allow</l>
+               <l>A double Feaſt, what ſhall we then add now?</l>
+               <l>Now that another <hi>George</hi> with better right</l>
+               <l>Then that ſuſpected <hi>Cappadocian</hi> Kinght;</l>
+               <l>May claim our Nations patronage, or ſhare</l>
+               <l>At leaſt the glories of the Kalendar;</l>
+               <l>When now our Royal <hi>Charles,</hi> as good as great,</l>
+               <l>Hath choſe this day t' aſcend the regal Seat:</l>
+               <l>As it falls out i'th' <hi>Romane</hi> offices,</l>
+               <l>Where two Saints meet, the greater drowns the leſs.</l>
+               <pb n="4" facs="tcp:169348:3"/>
+               <!-- PDF PAGE 46 -->
+               <l>Who yet commemorations duly ſhare;</l>
+               <l>So though the day to <hi>Charles</hi> his Crown adhere:</l>
+               <l>Thou <hi>George</hi> ſhalt never unremembred be,</l>
+               <l>Still <hi>Tropaeophorus</hi> ſhall be fixt on thee.</l>
+            </lg>
+            <lg>
+               <l>Ye heavens that long have wept th' untimely fall</l>
+               <l>Of <hi>Gloc'ſter,</hi> and his ſiſters Funeral:</l>
+               <l>Put on your pureſt azure, mak't appear,</l>
+               <l>As in our griefs, you in our joys do ſhare:</l>
+               <l>And thou bright Sun comply with our deſires,</l>
+               <l>Diſpence thy cleareſt inoffenſive fires:</l>
+               <l>Only ſtrike Envy blind, that will not ſee</l>
+               <l>
+                  <hi>Charles</hi> is heavens care, and Earths felicity.</l>
+            </lg>
+            <lg>
+               <l>My prayer is heard, the day ſerene ſhall be</l>
+               <l>As fair-ey'd Peace, or proſperous Loyalty,</l>
+               <l>Nature muſt be reſtrain'd, and ſtorms ſuſpended</l>
+               <l>Till the great Rites and Feſtival be ended:</l>
+               <l>So the obedient waters ſtand a wall</l>
+               <l>Till <hi>Iſraels</hi> march be paſt, and then they fall:</l>
+            </lg>
+            <lg>
+               <l>While various entertainments cauſe your ſtay,</l>
+               <l>Dread Sir, let it be lawful to ſurvey</l>
+               <l>Beſide your native Titles to a Crown</l>
+               <l>How God by more deſign'd you to the Throne.</l>
+            </lg>
+            <pb n="5" facs="tcp:169348:3"/>
+            <!-- PDF PAGE 46 -->
+            <lg>
+               <l>Impatient man, 'tis true, thinks each diſtreſs</l>
+               <l>Forty years travel in the wilderneſſe;</l>
+               <l>But <hi>Canaan</hi> once obtain'd, he finds th'intent</l>
+               <l>Had more of kindneſs in't, then puniſhment:</l>
+               <l>Peril by War in <hi>Worc'ſters</hi> fatal day,</l>
+               <l>Flight, that no Councel brooks, nor wiſe delay,</l>
+               <l>Purſuit, as cloſe as gold or threats can make,</l>
+               <l>To bribe poor men, and womens faith to ſhake,</l>
+               <l>Perils by ſea, corrupted Servant-ſpies,</l>
+               <l>Falſe friends at home, abroad unkind Allies;</l>
+               <l>Theſe and a thouſand Accidents there lay</l>
+               <l>So many fiery Serpents in your way,</l>
+               <l>Yet looking up you liv'd; and in an houre</l>
+               <l>Man thought not of, a weak deſpiſed power</l>
+               <l>Confounds the mighty, doth by arts aſſwage</l>
+               <l>The mutinous ſouldier, and the peoples rage,</l>
+               <l>Works their deſires, till like a love-ſick maid,</l>
+               <l>They grow impatient that they are delay'd</l>
+               <l>Their Princes ſight, and labour who ſhall bring</l>
+               <l>Their earlieſt tribute to their injur'd King;</l>
+               <l>God (ſaid your wiſe great miniſter of ſtate)</l>
+               <l>Would not have done ſo much for one ingrate,</l>
+               <pb n="6" facs="tcp:169348:4"/>
+               <!-- PDF PAGE 47 -->
+               <l>For one he did not love, and will defend</l>
+               <l>'Gainſt all the force bad men and devils can ſend.</l>
+            </lg>
+            <lg>
+               <l>But every perſ'nal bleſſing heaven beſtows</l>
+               <l>Upon good Princes, to their Subjects flows;</l>
+               <l>Their very ſuffrings rightly underſtood</l>
+               <l>Are all diffuſive to their peoples good.</l>
+               <l>After a tedious exile undergone</l>
+               <l>
+                  <hi>Malcome</hi> aſſum'd his murthred Fathers Throne,</l>
+               <l>And <hi>Scotland</hi> reap'd from that calamity</l>
+               <l>Th' effects of Juſtice, and of piety;</l>
+               <l>And you, great Sir, diſtreſs'd in forraign parts,</l>
+               <l>Return improv'd in all the Kingly Arts;</l>
+               <l>Courts are luxuriant ſoyles where vertues ſeeds</l>
+               <l>In youth are eaſie over-run with weeds;</l>
+               <l>But trouble, though the travail be ſevere,</l>
+               <l>Hath glory oft i'th' birth to be its Heire.</l>
+            </lg>
+            <lg>
+               <l>Time was (and 'twas a tedious time the while)</l>
+               <l>The peoples terrour, was the Rulers ſmile;</l>
+               <l>When armed <hi>Keepers</hi> of our <hi>Libertie</hi>
+               </l>
+               <l>Would tell impriſon'd men that they were free,</l>
+               <l>When falſe <hi>Protectors</hi> would again obtrude</l>
+               <l>For verbal freedom, real ſervitude;</l>
+               <pb n="7" facs="tcp:169348:4"/>
+               <!-- PDF PAGE 47 -->
+               <l>When <hi>Dicaearchus</hi> gods both did adore,</l>
+               <l>
+                  <hi>Iniquity,</hi> and thirſt of <hi>humane gore;</hi>
+               </l>
+               <l>But now the Head and Members correſpond,</l>
+               <l>Aptly united by their legal Bond;</l>
+               <l>Good is no longer good, that doth not bring</l>
+               <l>The people freedome, Honour to the King;</l>
+               <l>Nor is that good that benefits the State,</l>
+               <l>If Church-revenues it exterminate;</l>
+               <l>Juſtice the centre hath, and doth comply</l>
+               <l>With all the points of the <hi>Periphery;</hi>
+               </l>
+               <l>Thus, Royal Sir, you thought you had not done</l>
+               <l>When civil right's reſtor'd, the Church alone</l>
+               <l>Should unregarded weep, and <hi>Caeſar's</hi> due</l>
+               <l>Obtain'd, 'twas juſt that God ſhould have his too;</l>
+               <l>Orders his due, and holy Rites repaire,</l>
+               <l>
+                  <hi>A</hi> decent Houſe, and a conſiderate Prayer;</l>
+               <l>The Churches care you have deriv'd from yours</l>
+               <l>To pious, reverend, learned Confeſſors:</l>
+               <l>If Sir your Royal Father can look down</l>
+               <l>Upon the rayes of Your exalted Crown,</l>
+               <l>Sure 'twill augment his joys to ſee You ſtand</l>
+               <l>The <hi>Faiths Defender</hi> from his laſt command;</l>
+               <pb n="8" facs="tcp:169348:5"/>
+               <!-- PDF PAGE 48 -->
+               <l>Which he foreſaw at your return would be</l>
+               <l>Your Kingdome's, and your own ſecuritie.</l>
+            </lg>
+            <lg>
+               <l>But oh what words can ſpeak your charity!</l>
+               <l>Your martyr'd fathers blood for blood did cry,</l>
+               <l>And muſt be heard, Juſtice and Nature call,</l>
+               <l>That to appeaſe his Ghoſt ſome <hi>
+                     <g ref="char:V">Ʋ</g>ictims</hi> fall;</l>
+               <l>And yet for blood of that unvalued price</l>
+               <l>They were too thin, too lean a ſacrifice:</l>
+               <l>But all your perſ'nal wrongs you did forgive,</l>
+               <l>And gave them life that would not have you live;</l>
+               <l>So the kind Balſom-tree receives a wound,</l>
+               <l>And makes the hand that gave it whole and ſound;</l>
+               <l>So the <hi>Palmeto</hi> pierc'd, new ſtrength confers</l>
+               <l>By'ts Soveraign juyce to dying Travellers.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>France, Holland, Flanders, Germany</hi> you view'd,</l>
+               <l>Saluted <hi>Spaine;</hi> and yet by none ſubdu'd</l>
+               <l>Came purely <hi>Engliſh</hi> home, and from each clime</l>
+               <l>You brought their virtues with you, not their crime;</l>
+               <l>Thus whilſt prophaneſs, oaths, debauch'd exceſſe</l>
+               <l>Your own example, and Your Laws ſuppreſs,</l>
+               <l>You do oblige us by innumerous bands</l>
+               <l>For your own goodneſs firſt, and then the Lands.</l>
+               <pb n="9" facs="tcp:169348:5"/>
+               <!-- PDF PAGE 48 -->
+               <l>The Muſes, long diſorder'd by their fears,</l>
+               <l>And had no moiſture left them but their tears,</l>
+               <l>From your beſt influence ſhall numbers raiſe</l>
+               <l>T'outlaſt the Cedar, and reſerve the Bayes:</l>
+               <l>The Seamans Art, and his great end, Commerce</l>
+               <l>Through all the corners of the Univerſe,</l>
+               <l>Are not alone the ſubject of Your care,</l>
+               <l>But Your delight, and You their Polar-ſtar:</l>
+               <l>And even Mechanick Arts do find from you</l>
+               <l>Both entertainment and improvement too:</l>
+               <l>As by its genial heat the Sun doth bring</l>
+               <l>To the cold <hi>Muſcovite</hi> a preſent Spring;</l>
+               <l>So wonders wait where e're You raiſe Your head,</l>
+               <l>You cheere the drooping, and revive the dead.</l>
+            </lg>
+            <lg>
+               <l>Such ſhould the Prince be, not whom Civil War</l>
+               <l>And Nations ruin'd Liberties prefer;</l>
+               <l>But Peace, and Heaven, by prayer prevail'd upon,</l>
+               <l>Do uſher to the triumphs of a Crown;</l>
+               <l>And ſuch a one had <hi>Brutus</hi> liv'd to ſee</l>
+               <l>He would have lov'd as his dear Libertie:</l>
+               <l>Old ſullen <hi>Cato</hi> gladly would have made</l>
+               <l>His gay appearance in your Cavalcade,</l>
+               <pb n="10" facs="tcp:169348:6"/>
+               <!-- PDF PAGE 49 -->
+               <l>Hugd Your beſt Citizens, that had decreed</l>
+               <l>Triumphal Arches as Your vertues meed;</l>
+               <l>And <hi>Paetus</hi> had inſcrib'd, had he been here,</l>
+               <l>On each, <hi>To Jove</hi> your great <hi>Deliverer;</hi>
+               </l>
+               <l>This on their hearts do all Your Liegemen bring,</l>
+               <l>Whilſt their glad mouths <hi>Jo Triumph</hi> ſing</l>
+               <l>To You great Sir, that thus deſerve a Crown,</l>
+               <l>Before you would be pleas'd to put it on.</l>
+            </lg>
+            <lg>
+               <l>That Royal Sir remains, and is the care</l>
+               <l>Your Prelates claime, from whoſe prevailing Prayer</l>
+               <l>And ſacred Unction may You be indu'd</l>
+               <l>With Glory, Holineſſe and fortitude,</l>
+               <l>May You have all aſſiſtance from above,</l>
+               <l>And may You alwayes live, Your people love,</l>
+               <l>Your foes diſmay if any dare to ſtir,</l>
+               <l>And <hi>Europe</hi> own you for her <hi>Arbiter:</hi>
+               </l>
+               <l>Then let ſome daring Muſe hereafter riſe</l>
+               <l>And teach the World your bloodleſs Victories;</l>
+               <l>Sing how in Grace, your Empires Baſe was ſet,</l>
+               <l>So <hi>Jove</hi>'s firſt ſtil'd the good, and then the great;</l>
+               <l>Sing how ſome Princes of your Neighbour <hi>France</hi>
+               </l>
+               <l>By ſingle vertues did their name advance,</l>
+               <pb n="11" facs="tcp:169348:6"/>
+               <!-- PDF PAGE 49 -->
+               <l>
+                  <hi>The great, the godly, hardy, wiſe, the juſt,</hi>
+               </l>
+               <l>You whom a noon-day ſtar declar'd <hi>Auguſt,</hi>
+               </l>
+               <l>Cannot to ſuch a diminution fall</l>
+               <l>To be denominate from one, but all.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
